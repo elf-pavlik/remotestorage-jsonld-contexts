@@ -35,4 +35,4 @@ contexts specific to each module
 }
 ```
 
-* bookmarks
+* bookmarks [discussion started on schema.org mailing list](http://lists.w3.org/Archives/Public/public-vocabs/2014Sep/0102.html)
