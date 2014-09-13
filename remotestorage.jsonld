@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "id": "@id",
+    "rs": "http://remotestorage.io/vocabs/tmp#",
+    "@vocab": "/vocabs/catchall#"
+  }
+}

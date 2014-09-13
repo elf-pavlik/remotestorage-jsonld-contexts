@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "url": "http://schema.org/about",
+    "title": "http://schema.org/name",
+    "createdAt": "http://schema.org/dateCreated",
+    "description": "http://schema.org/description",
+    "thumbnail": "http://schema.org/thumbnailUrl",
+    "tags": "rs:tags",
+    "unread": "rs:unread"
+  }
+}
